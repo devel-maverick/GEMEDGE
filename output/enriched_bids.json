@@ -1,0 +1,2048 @@
+[
+  {
+    "bid_id": "GEM/2026/B/7533654",
+    "ra_id": null,
+    "category": "fuel filter,assy cable comp,field coil assy,solenoid switch,hand valve,booster rep kit,hp hose,spee",
+    "buyer": "Ministry of Defence, Department of Military Affairs",
+    "quantity": "21",
+    "start_date": "13-05-2026 11:26 AM",
+    "end_date": "23-05-2026 2:00 PM",
+    "bid_result_url": null,
+    "ra_result_url": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534743",
+    "ra_id": null,
+    "category": "3120 004922,48870m70a22,2530 017915,2520 70 0468324,4820 72 0000063,4710 72 0531157,4320 004124,336",
+    "buyer": "Ministry of Defence, Department of Military Affairs",
+    "quantity": "25",
+    "start_date": "13-05-2026 1:12 PM",
+    "end_date": "23-05-2026 2:00 PM",
+    "bid_result_url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9323506",
+    "ra_result_url": null,
+    "winner_name": "ASHOKA ENGINEERING WORKS( MSE Social Category:General )",
+    "winner_price": "86063.30",
+    "bid_value": "86063.30",
+    "award_date": "23-05-2026 14:00:00",
+    "num_qualified_financial": 3,
+    "vendors_financial": [
+      {
+        "vendor_name": "ASHOKA ENGINEERING WORKS( MSE Social Category:General )",
+        "vendor_price": "86063.30",
+        "vendor_rank": "L1"
+      },
+      {
+        "vendor_name": "Raj Motor store( MSE Social Category:General )",
+        "vendor_price": "89281.15",
+        "vendor_rank": "L2"
+      },
+      {
+        "vendor_name": "BLUE THROAT LIMITED( MSE Social Category:OBC )",
+        "vendor_price": "99300.00",
+        "vendor_rank": "L3"
+      }
+    ],
+    "num_bidders": 3,
+    "vendors_technical": [
+      {
+        "vendor_name": "ASHOKA ENGINEERING WORKS",
+        "status": "Qualified"
+      },
+      {
+        "vendor_name": "BLUE THROAT LIMITED",
+        "status": "Qualified"
+      },
+      {
+        "vendor_name": "Raj Motor store",
+        "status": "Qualified"
+      }
+    ]
+  },
+  {
+    "bid_id": "GEM/2026/B/7535122",
+    "ra_id": null,
+    "category": "N/A",
+    "buyer": "Ministry of Defence, Department of Military Affairs",
+    "quantity": "1",
+    "start_date": "13-05-2026 1:59 PM",
+    "end_date": "23-05-2026 2:00 PM",
+    "bid_result_url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9323923",
+    "ra_result_url": null,
+    "winner_name": "Shiva Sales Corporation",
+    "winner_price": "49950.00",
+    "bid_value": "49950.00",
+    "award_date": "23-05-2026 14:00:00",
+    "num_qualified_financial": 3,
+    "vendors_financial": [
+      {
+        "vendor_name": "Shiva Sales Corporation",
+        "vendor_price": "49950.00",
+        "vendor_rank": "L1"
+      },
+      {
+        "vendor_name": "SS PROFESSIONAL SERVICES LLP",
+        "vendor_price": "74890.00",
+        "vendor_rank": "L2"
+      },
+      {
+        "vendor_name": "M/S M.P.TRADERS",
+        "vendor_price": "75650.00",
+        "vendor_rank": "L3"
+      }
+    ],
+    "num_bidders": 3,
+    "vendors_technical": [
+      {
+        "vendor_name": "M/S M.P.TRADERS",
+        "status": "Qualified"
+      },
+      {
+        "vendor_name": "Shiva Sales Corporation",
+        "status": "Qualified"
+      },
+      {
+        "vendor_name": "SS PROFESSIONAL SERVICES LLP",
+        "status": "Qualified"
+      }
+    ]
+  },
+  {
+    "bid_id": "GEM/2026/B/7527668",
+    "ra_id": null,
+    "category": "High mast pole for national flags (V2)",
+    "buyer": "Rural Development Department Uttar Pradesh",
+    "quantity": "1",
+    "start_date": "13-05-2026 12:28 PM",
+    "end_date": "23-05-2026 1:00 PM",
+    "bid_result_url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9315824",
+    "ra_result_url": null,
+    "winner_name": "M/S SHREE ENTERPRISES",
+    "winner_price": "994800.00",
+    "bid_value": "994800.00",
+    "award_date": "23-05-2026 13:00:00",
+    "num_qualified_financial": 3,
+    "vendors_financial": [
+      {
+        "vendor_name": "M/S SHREE ENTERPRISES",
+        "vendor_price": "994800.00",
+        "vendor_rank": "L1"
+      },
+      {
+        "vendor_name": "OMG ENGINEERING",
+        "vendor_price": "994900.00",
+        "vendor_rank": "L2"
+      },
+      {
+        "vendor_name": "TRIPATI ENTERPRISES",
+        "vendor_price": "995000.00",
+        "vendor_rank": "L3"
+      }
+    ],
+    "num_bidders": 3,
+    "vendors_technical": [
+      {
+        "vendor_name": "M/S SHREE ENTERPRISES",
+        "status": "Qualified"
+      },
+      {
+        "vendor_name": "OMG ENGINEERING",
+        "status": "Qualified"
+      },
+      {
+        "vendor_name": "TRIPATI ENTERPRISES",
+        "status": "Qualified"
+      }
+    ]
+  },
+  {
+    "bid_id": "GEM/2026/B/7527629",
+    "ra_id": null,
+    "category": "High Mast Lighting Octagonal Tower for Small area with LED Flood Lighting System (V2)",
+    "buyer": "Rural Development Department Uttar Pradesh",
+    "quantity": "1",
+    "start_date": "13-05-2026 12:27 PM",
+    "end_date": "23-05-2026 1:00 PM",
+    "bid_result_url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9315781",
+    "ra_result_url": null,
+    "winner_name": "M/S SHREE ENTERPRISES",
+    "winner_price": "449800.00",
+    "bid_value": "449800.00",
+    "award_date": "23-05-2026 13:00:00",
+    "num_qualified_financial": 3,
+    "vendors_financial": [
+      {
+        "vendor_name": "M/S SHREE ENTERPRISES",
+        "vendor_price": "449800.00",
+        "vendor_rank": "L1"
+      },
+      {
+        "vendor_name": "OMG ENGINEERING",
+        "vendor_price": "449900.00",
+        "vendor_rank": "L2"
+      },
+      {
+        "vendor_name": "TRIPATI ENTERPRISES",
+        "vendor_price": "450000.00",
+        "vendor_rank": "L3"
+      }
+    ],
+    "num_bidders": 3,
+    "vendors_technical": [
+      {
+        "vendor_name": "M/S SHREE ENTERPRISES",
+        "status": "Qualified"
+      },
+      {
+        "vendor_name": "OMG ENGINEERING",
+        "status": "Qualified"
+      },
+      {
+        "vendor_name": "TRIPATI ENTERPRISES",
+        "status": "Qualified"
+      }
+    ]
+  },
+  {
+    "bid_id": "GEM/2026/B/7534105",
+    "ra_id": null,
+    "category": "Handling and Transport on Lumpsum Basis - Safe Loading Carriage and unloading",
+    "buyer": "Energy Department Uttar Pradesh",
+    "quantity": "1",
+    "start_date": "13-05-2026 12:16 PM",
+    "end_date": "23-05-2026 1:00 PM",
+    "bid_result_url": null,
+    "ra_result_url": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7524189",
+    "ra_id": null,
+    "category": "CLUTCH PLATE,BRAKE CYLINDER,BEARING ROLLER CYLINDRICAL,DRIVEN PLATE FOR CLUTCH,CONNECTING HEAD,RELE",
+    "buyer": "Ministry of Defence, Department of Military Affairs",
+    "quantity": "13",
+    "start_date": "11-05-2026 11:31 AM",
+    "end_date": "23-05-2026 12:00 PM",
+    "bid_result_url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9311878",
+    "ra_result_url": null,
+    "winner_name": "SAMRIDDHI ENTERPRISES( MSE Social Category:General )",
+    "winner_price": "112868.18",
+    "bid_value": "112868.18",
+    "award_date": "23-05-2026 12:00:00",
+    "num_qualified_financial": 3,
+    "vendors_financial": [
+      {
+        "vendor_name": "SAMRIDDHI ENTERPRISES( MSE Social Category:General )",
+        "vendor_price": "112868.18",
+        "vendor_rank": "L1"
+      },
+      {
+        "vendor_name": "NAINA ENTERPRISES( MSE Social Category:General )",
+        "vendor_price": "113250.00",
+        "vendor_rank": "L2"
+      },
+      {
+        "vendor_name": "KAVYA TRADERS( MSE Social Category:General )",
+        "vendor_price": "114450.00",
+        "vendor_rank": "L3"
+      }
+    ],
+    "num_bidders": 3,
+    "vendors_technical": [
+      {
+        "vendor_name": "KAVYA TRADERS",
+        "status": "Qualified"
+      },
+      {
+        "vendor_name": "NAINA ENTERPRISES",
+        "status": "Qualified"
+      },
+      {
+        "vendor_name": "SAMRIDDHI ENTERPRISES",
+        "status": "Qualified"
+      }
+    ]
+  },
+  {
+    "bid_id": "GEM/2026/B/7497767",
+    "ra_id": "GEM/2026/R/670724",
+    "category": "Goods Transport Service \u2013 Per KM Based Service - Household/Office, Valuable goods requiring High ",
+    "buyer": "Ministry of Defence, Department of Military Affairs",
+    "quantity": "21318",
+    "start_date": "22-05-2026 12:00 PM",
+    "end_date": "23-05-2026 12:00 PM",
+    "bid_result_url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9282485",
+    "ra_result_url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9359607",
+    "winner_name": "ARMED FORCE EX SERVICEMAN WELFARE CO OPERATIVE SOCIETY LIMITED",
+    "winner_price": "1375011.00",
+    "bid_value": "1375011.00",
+    "award_date": "23-05-2026 12:00:00",
+    "num_qualified_financial": 3,
+    "vendors_financial": [
+      {
+        "vendor_name": "ARMED FORCE EX SERVICEMAN WELFARE CO OPERATIVE SOCIETY LIMITED",
+        "vendor_price": "1375011.00",
+        "vendor_rank": "L1"
+      },
+      {
+        "vendor_name": "MOHINDER ROAD LINES",
+        "vendor_price": "1384604.10",
+        "vendor_rank": "L2"
+      },
+      {
+        "vendor_name": "THE DESERT STORM",
+        "vendor_price": "1387801.80",
+        "vendor_rank": "L3"
+      }
+    ],
+    "num_bidders": 11,
+    "vendors_technical": [
+      {
+        "vendor_name": "ARMED FORCE EX SERVICEMAN WELFARE CO OPERATIVE SOCIETY LIMITED",
+        "status": "Qualified"
+      },
+      {
+        "vendor_name": "ASMA ENTERPRISES",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "Jaisalmer bombay transport company",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "MILAN TRANSPORT CO.",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "MOHINDER ROAD LINES",
+        "status": "Qualified"
+      },
+      {
+        "vendor_name": "NIRVANA TOURS AND LOGISTICS LLP",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "PREM PRAKASH ARORA",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "SHREE VIJAY TRAVELS",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "SUBHASHIS CHATTERJEE",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "THE DESERT STORM",
+        "status": "Qualified"
+      },
+      {
+        "vendor_name": "YADAV TRANSPORT",
+        "status": "Disqualified"
+      }
+    ]
+  },
+  {
+    "bid_id": "GEM/2026/B/7562361",
+    "ra_id": null,
+    "category": "Catering Service per Packet based - Veg; Breakfast, Lunch, Snacks/High, Tea, Dinner; Buffet(Breakfa",
+    "buyer": "Ministry of Defence, Department of Defence",
+    "quantity": "606",
+    "start_date": "20-05-2026 11:42 AM",
+    "end_date": "23-05-2026 12:00 PM",
+    "bid_result_url": null,
+    "ra_result_url": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7534511",
+    "ra_id": null,
+    "category": "Manpower Outsourcing Services - Minimum wage - Unskilled; High School; Others",
+    "buyer": "Ministry of Finance, Department of Revenue",
+    "quantity": "1",
+    "start_date": "13-05-2026 1:03 PM",
+    "end_date": "23-05-2026 12:00 PM",
+    "bid_result_url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9323261",
+    "ra_result_url": null,
+    "winner_name": "SHAMMI MITTAL",
+    "winner_price": "277267.82",
+    "bid_value": "277267.82",
+    "award_date": "23-05-2026 12:00:00",
+    "num_qualified_financial": 1,
+    "vendors_financial": [
+      {
+        "vendor_name": "SHAMMI MITTAL",
+        "vendor_price": "277267.82",
+        "vendor_rank": "L1"
+      }
+    ],
+    "num_bidders": 186,
+    "vendors_technical": [
+      {
+        "vendor_name": "A S S SECURITY GROUP",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "ABSF MANAGEMENT INDIA PRIVATE LIMITED",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "ADITHI GLOBAL CARE PRIVATE LIMITED",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "AEROTEK SERVICES",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "ALBERTO TECHNOLOGIES",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "ALLIANCE OUTSOURCING PRIVATE LIMITED",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "AMPUG Solutions",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "ANANYA SERVICES",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "ANJANIPUTAR MANPOWER SERVICES",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "ARIHANT OUTSOURCING SOLUTIONS",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "ARYAN BIZZ PRIVATE LIMITED",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "ASHFORD STAFFING (OPC) PRIVATE LIMITED",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "ASIAN HAWKS MANPOWER SERVICES PRIVATE LIMITED",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "ATIREKA SHRAMIKA PRIVATE LIMITED",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "AWADH SECURITY SERVICES PRIVATE LIMITED",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "axis sales corp.",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "B D MOBEL PRIVATE LIMITED",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "B.P. CONSTRUCTION",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "BALAJI ENTERPRISES",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "BD SECURITY",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "BEENA SECURITY SERVICE",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "BEST INDIA SOLUTION",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "BHAGWATI MANPOWER SERVICES",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "BHANU UDAY SECURITY SERVICES",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "BHARAT KRISHI PASHUPALAN KENDRA",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "BRIGHT ENTERPRISES",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "CAPTAIN SUNLIGHT SECURITY AGENCY PRIVATE LIMITED",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "CHANDRA HOSPITALITY SERVICE",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "CITY HAWKS MANPOWER SERVICES AND CONSULTANCY PRIVATE LIMITED",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "COMPASS VISION SERVICES",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "COMPASVISION INFOTECH (OPC) PRIVATE LIMITED",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "COUNTRYWIDE TECHNOLOGIES PRIVATE LIMITED",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "DRIVYA SECURITY AND INTEGRATED SERVICES PRIVATE LIMITED",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "DRONE SECURITY AGENCY",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "ECO ANN ORGANIC PRIVATE LIMITED",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "EJEE COMPLETE OFFICE SOLUTIONS PRIVATE LIMITED",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "EMPVIN CONSULTANCY PRIVATE LIMITED",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "EVOLUTION STAFFING LLP",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "EVORV PRIVATE LIMITED",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "G.K.ENTERPRISE",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "GEONOVATECH INFRA AND SERVICES PRIVATE LIMITED",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "GILL ENTERPRISES",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "Global Infra Solution",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "GOLDEN TRIANGLE SECURITY SERVICE PRIVATE LIMITED",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "Growing Manpower Service",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "GUNJAN GLOBAL INFRAVENTURE",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "GUPTA ENTERPRISES",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "GURU NANAK SECURITY",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "HELIS CONSULTING PRIVATE LIMITED",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "Helis Technologies",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "INSF INDIA PRIVATE LIMITED",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "INTELLISMART ENERGY SOLUTIONS",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "IRON WOLF SECURITY LLP",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "ISHITA SECURITY AND MANPOWER SERVICE PRIVATE LIMITED",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "J B SECURITY SERVICE",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "J B TRADING CO",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "J K ENTERPRISES",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "J N ENTERPRISES",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "J SHARP PRIVATE LIMITED",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "J.S Enterprises",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "JAGADVYAPI FACILITIES PRIVATE LIMITED",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "JAI BHOLENATH SERVICES",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "JAI DURGA SHAKTI SERVICES",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "JAI JAWALAJI SECURITY AND MANPOWER SERVICES PRIVATE LIMITED",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "JAIN CORPORATION",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "JIVANSH HANS PRIVATE LIMITED",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "JKM TOTAL SECURITY (OPC) PRIVATE LIMITED",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "JSR ENTERPRISES",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "K P N SAI INFRA PRIVATE LIMITED",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "Kanishk Enterprises",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "KARMBHUMI ENGINEERING & FACILITY MANAGEMENT PRIVATE LIMITED",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "KAYRA MANPOWER SUPPLIER",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "KESHWISE NEXUS PRIVATE LIMITED",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "KGM Enterprise",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "KINSHIP SERVICES",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "KR ASSOCIATES",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "KULDEEP COMMUNICATION & ELECTRONICS",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "LAADU SHYAM KISHORI SECURITIES PRIVATE LIMITED",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "LAKSHYARAJ ASSOCIATES",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "LEAD SALES AND SUPPLY",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "M.M. EAGLES SECURITY",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "M.S. ENTERPRISES",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "M/S AADITYA ENTERPRISES",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "M/S AWADH GROUP",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "M/S BANKE BIHARI SERVICES AND MANPOWER SUPPLYAR",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "M/S BHAGWATI SERVICES",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "M/S DOLE ENTERPRISES",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "M/S NIRBHIK INDIA SERVICES",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "MADWA ASSOCIATES",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "MAHI IT GLOBAL INDIA PRIVATE LIMITED",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "Marg Enterprises",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "MAXWELL MULTISERVICES & CONSTRUCTIONS PRIVATE LIMITED",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "National Services and Manpower Supply",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "NEGIE INFOTECH",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "New Tiger Security Services",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "NISHIDA AGENCY",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "NOKN INDIA PRIVATE LIMITED",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "OJN FACILITIES PRIVATE LIMITED",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "OM SHREE PAWANPUTRA SERVICES",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "OMILA MAHABALA ANANTA PRIVATE LIMITED",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "ONE SOLUTION",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "PARI MANPOWER ENTERPRISES (OPC) PRIVATE LIMITED",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "PARV TRADERS",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "PHR ENTERPRISES",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "Pihu Manpower Service",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "PINK RIDER PRIVATE LIMITED",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "PLANET SECURITY PRIVATE LIMITED",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "PLAYMATE OUTSOURCING SERVICES PRIVATE LIMITED",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "PM SERVICES",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "PMS INT BHATTHA",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "PR ASSOCIATE",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "PRAKASHTAM SECURITY & FACILITY PRIVATE LIMITED",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "PREEKSHIT MANPOWER PRIVATE LIMITED",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "PRITHVI MANPOWER SOLUTIONS PRIVATE LIMITED",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "PROHIRE ELITE ENTERPRISES LLP",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "PUNJAB SERVICE AGENCY",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "R J PRIME SERVICES",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "R K ENTERPRISES",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "R M ENTERPRISES",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "R.V.ENTERPRISE",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "RAJENDRA  TIWARI CONTRACTOR",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "RAJNAR EMPOWERMENT SERVICES",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "RAPID SERVICES AGENCY",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "Ravi Enterprises",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "RAVLEEN SECURITY PRIVATE LIMITED",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "Rawat G and R Associates",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "RIDHISIDHI TEAM SOLUTIONS",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "RM ENTERPRISES",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "ROHHIT ENTERPRISES",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "ROMAN SEVEN SECURITY PRIVATE LIMITED",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "ROYAL DIGITAL SOLUTIONS",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "RPY MANPOWER SOLUTION PRIVATE LIMITED",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "RRPERFECT SECURITY SERVICES INDIA PRIVATE LIMITED",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "RS ENTERPRISE",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "SADHNA SECURITY SERVICES",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "Sai A1 Services",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "SAI PTP SOLUTIONS LLP",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "SAMRAT SECURITY SERVICES PRIVATE LIMITED",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "SAMRIDHI GREEN FORCE PRIVATE LIMITED",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "SARSP TECH SERVICES PRIVATE LIMITED",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "SEBUSHI SERVICES PRIVATE LIMITED",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "SECURITY AND INTELLIGENCE SERVICES BUREAU",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "SHAMMI MITTAL",
+        "status": "Qualified"
+      },
+      {
+        "vendor_name": "SHANKARMEERA SR SERVICES PRIVATE LIMITED",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "SHERWOOD SECURITY & MANPOWER SERVICES PRIVATE LIMITED",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "SHIVARCHITA MANPOWER SERVICES PRIVATE LIMITED",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "SHIVDULARI ENTERPRISES PRIVATE LIMITED",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "SHREE BHOMIYAJI TROOPS PRIVATE LIMITED",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "SHREE SHYAM ENTERPRISES",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "SHRI KRISHNA CONSTRUCTIONS",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "SHRI OM MAN POWER SERVICE PROVIDER",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "SHUBHAM ENTERPRISE",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "SIDHESHWAR SECURITY SERVICES",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "SK ENTERPRISES SOLUTIONS LLP",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "SNEPRA SECURE SERVICES PRIVATE LIMITED",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "SPSMS GLOBAL PRIVATE LIMITED",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "SRA INFO SOLUTIONS",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "SRV ENTERPRISE",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "SSS SECURITY FORCE (OPC) PRIVATE LIMITED",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "SUNSPIRE-SKY PRIVATE LIMITED",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "SUPERMAN SECURITY SERVICES PRIVATE LIMITED",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "SVIAN SECURITY PRIVATE LIMITED",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "TALENT EXCEL PRIVATE LIMITED",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "TEJASHIV MANPOWER SERVICE",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "TMS SECURITY SERVICES",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "TOTAL OFFICE SOLUTION",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "TROMSO SERVICES PRIVATE LIMITED",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "TS MANPOWER SERVICES",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "Ujjwal common service center",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "UPANYA DEVELOPERS AND MANPOWER SERVICES PRIVATE LIMITED",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "V K ENTERPRISES",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "VAISHNAVI ENTERPRISES",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "VAJRA SECURITY SERVICES",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "VAMIKA CORPORATE SERVICES",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "VANSH MANPOWER SOLUTIONS PRIVATE LIMITED",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "VCS Education Healthcare & Outsourcing",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "VEERVAYU ASSOCIATES",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "VERTEX WORKFORCE PRIVATE LIMITED",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "VG MANPOWER SERVICES PRIVATE LIMITED",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "VILOHITA SKYBUILT PRIVATE LIMITED",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "WEBORNET PRIVATE LIMITED",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "WHITELION EXIM SECURITY PRIVATE LIMITED",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "WORLD SPACE",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "Xumify",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "YASH R SOLUTION",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "ZEALOUS SECURATOR PRIVATE LIMITED",
+        "status": "Disqualified"
+      }
+    ]
+  },
+  {
+    "bid_id": "GEM/2026/B/7533523",
+    "ra_id": null,
+    "category": "Household Refrigerating Appliances as per IS 17550",
+    "buyer": "Ministry of Railways, Indian Railways",
+    "quantity": "1",
+    "start_date": "13-05-2026 11:20 AM",
+    "end_date": "23-05-2026 12:00 PM",
+    "bid_result_url": null,
+    "ra_result_url": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7533327",
+    "ra_id": null,
+    "category": "N/A",
+    "buyer": "Energy Department Uttar Pradesh",
+    "quantity": "2",
+    "start_date": "13-05-2026 11:56 AM",
+    "end_date": "23-05-2026 12:00 PM",
+    "bid_result_url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9321975",
+    "ra_result_url": null,
+    "winner_name": "M/S CHINTAHARAN ENTERPRISES",
+    "winner_price": "19824.00",
+    "bid_value": "19824.00",
+    "award_date": "23-05-2026 12:00:00",
+    "num_qualified_financial": 3,
+    "vendors_financial": [
+      {
+        "vendor_name": "M/S CHINTAHARAN ENTERPRISES",
+        "vendor_price": "19824.00",
+        "vendor_rank": "L1"
+      },
+      {
+        "vendor_name": "SHRI HARI INFOTECH",
+        "vendor_price": "19942.00",
+        "vendor_rank": "L2"
+      },
+      {
+        "vendor_name": "CHINTAHARAN RETAILER LIMITED",
+        "vendor_price": "20000.00",
+        "vendor_rank": "L3"
+      }
+    ],
+    "num_bidders": 3,
+    "vendors_technical": [
+      {
+        "vendor_name": "CHINTAHARAN RETAILER LIMITED",
+        "status": "Qualified"
+      },
+      {
+        "vendor_name": "M/S CHINTAHARAN ENTERPRISES",
+        "status": "Qualified"
+      },
+      {
+        "vendor_name": "SHRI HARI INFOTECH",
+        "status": "Qualified"
+      }
+    ]
+  },
+  {
+    "bid_id": "GEM/2026/B/7561581",
+    "ra_id": null,
+    "category": "Repair and Overhauling Service - Window Air Conditioner including Green AC; LG; No; Buyer Premises",
+    "buyer": "Ministry of Home Affairs, Central Armed Police Forces",
+    "quantity": "1",
+    "start_date": "20-05-2026 10:11 AM",
+    "end_date": "23-05-2026 11:00 AM",
+    "bid_result_url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9353305",
+    "ra_result_url": null,
+    "winner_name": "M/S MOHAMMAD AFZAL MAGRAY",
+    "winner_price": "1800.00",
+    "bid_value": "1800.00",
+    "award_date": "23-05-2026 11:00:00",
+    "num_qualified_financial": 3,
+    "vendors_financial": [
+      {
+        "vendor_name": "M/S MOHAMMAD AFZAL MAGRAY",
+        "vendor_price": "1800.00",
+        "vendor_rank": "L1"
+      },
+      {
+        "vendor_name": "FAYAZ AHMAD MALIK GENERAL ORDER SUPPLIER",
+        "vendor_price": "2800.00",
+        "vendor_rank": "L2"
+      },
+      {
+        "vendor_name": "WASEEM AHMAD MALIK",
+        "vendor_price": "3300.00",
+        "vendor_rank": "L3"
+      }
+    ],
+    "num_bidders": 3,
+    "vendors_technical": [
+      {
+        "vendor_name": "FAYAZ AHMAD MALIK GENERAL ORDER SUPPLIER",
+        "status": "Qualified"
+      },
+      {
+        "vendor_name": "M/S MOHAMMAD AFZAL MAGRAY",
+        "status": "Qualified"
+      },
+      {
+        "vendor_name": "WASEEM AHMAD MALIK",
+        "status": "Qualified"
+      }
+    ]
+  },
+  {
+    "bid_id": "GEM/2026/B/7533337",
+    "ra_id": null,
+    "category": "N/A",
+    "buyer": "Urban Development Department Uttar Pradesh",
+    "quantity": "3",
+    "start_date": "13-05-2026 10:51 AM",
+    "end_date": "23-05-2026 11:00 AM",
+    "bid_result_url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9321986",
+    "ra_result_url": null,
+    "winner_name": "M/S ADARSH ENTER PRISES",
+    "winner_price": "1048500.00",
+    "bid_value": "1048500.00",
+    "award_date": "23-05-2026 11:00:00",
+    "num_qualified_financial": 3,
+    "vendors_financial": [
+      {
+        "vendor_name": "M/S ADARSH ENTER PRISES",
+        "vendor_price": "1048500.00",
+        "vendor_rank": "L1"
+      },
+      {
+        "vendor_name": "M/S V. TEL MARKETIND AND COMMUNICATION",
+        "vendor_price": "1050000.00",
+        "vendor_rank": "L2"
+      },
+      {
+        "vendor_name": "M/S  NEW WAVES",
+        "vendor_price": "1065000.00",
+        "vendor_rank": "L3"
+      }
+    ],
+    "num_bidders": 3,
+    "vendors_technical": [
+      {
+        "vendor_name": "M/S  NEW WAVES",
+        "status": "Qualified"
+      },
+      {
+        "vendor_name": "M/S ADARSH ENTER PRISES",
+        "status": "Qualified"
+      },
+      {
+        "vendor_name": "M/S V. TEL MARKETIND AND COMMUNICATION",
+        "status": "Qualified"
+      }
+    ]
+  },
+  {
+    "bid_id": "GEM/2026/B/7512937",
+    "ra_id": "GEM/2026/R/670610",
+    "category": "Monthly Basis Cab & Taxi Hiring Services - Sedan; 1500 km x 320 hours; Local 24*7",
+    "buyer": "Energy Department Uttar Pradesh",
+    "quantity": "3",
+    "start_date": "22-05-2026 10:00 AM",
+    "end_date": "23-05-2026 10:14 AM",
+    "bid_result_url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9299320",
+    "ra_result_url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9358789",
+    "winner_name": "M/S VERSHA ASSOCIATES, VARANASI",
+    "winner_price": "1014000.00",
+    "bid_value": "1014000.00",
+    "award_date": "23-05-2026 10:14:42",
+    "num_qualified_financial": 3,
+    "vendors_financial": [
+      {
+        "vendor_name": "M/S VERSHA ASSOCIATES, VARANASI",
+        "vendor_price": "1014000.00",
+        "vendor_rank": "L1"
+      },
+      {
+        "vendor_name": "TRIMURTI SUPPLIERS AND CONTRACTORS",
+        "vendor_price": "1020000.00",
+        "vendor_rank": "L2"
+      },
+      {
+        "vendor_name": "POOJA ENTERPRISES",
+        "vendor_price": "1080000.00",
+        "vendor_rank": "L3"
+      }
+    ],
+    "num_bidders": 3,
+    "vendors_technical": [
+      {
+        "vendor_name": "M/S VERSHA ASSOCIATES, VARANASI",
+        "status": "Qualified"
+      },
+      {
+        "vendor_name": "POOJA ENTERPRISES",
+        "status": "Qualified"
+      },
+      {
+        "vendor_name": "TRIMURTI SUPPLIERS AND CONTRACTORS",
+        "status": "Qualified"
+      }
+    ]
+  },
+  {
+    "bid_id": "GEM/2026/B/7359343",
+    "ra_id": "GEM/2026/R/670118",
+    "category": "4203082407-LIFT ARM FITTED W/ ROD-F, CH & DISCH. RHF",
+    "buyer": "Ministry of Steel, Steel Authority of India Limited",
+    "quantity": "2",
+    "start_date": "21-05-2026 12:00 PM",
+    "end_date": "23-05-2026 10:02 AM",
+    "bid_result_url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9125018",
+    "ra_result_url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9353780",
+    "winner_name": "MA TARA ENTERPRISE",
+    "winner_price": "629661.02",
+    "bid_value": "629661.02",
+    "award_date": "23-05-2026 10:02:53",
+    "num_qualified_financial": 7,
+    "vendors_financial": [
+      {
+        "vendor_name": "MA TARA ENTERPRISE",
+        "vendor_price": "629661.02",
+        "vendor_rank": "L1"
+      },
+      {
+        "vendor_name": "CMS TECHNO SERVICES",
+        "vendor_price": "631288.14",
+        "vendor_rank": "L2"
+      },
+      {
+        "vendor_name": "MICROMECH EQUIPMENTS",
+        "vendor_price": "693200.00",
+        "vendor_rank": "L3"
+      },
+      {
+        "vendor_name": "MODERN POWER ENGINEERING COMPANY",
+        "vendor_price": "699090.00",
+        "vendor_rank": "L4"
+      },
+      {
+        "vendor_name": "THE MINING & ENGINEERING CORPORATION",
+        "vendor_price": "835593.22",
+        "vendor_rank": "L5"
+      },
+      {
+        "vendor_name": "DURGAPUR CASTING & ALLIED PRODUCTS PVT LTD",
+        "vendor_price": "949152.54",
+        "vendor_rank": "L6"
+      },
+      {
+        "vendor_name": "HOWRAH STEEL & METALCRAFTS PRIVATE LIMITED",
+        "vendor_price": "1647864.41",
+        "vendor_rank": "L7"
+      }
+    ],
+    "num_bidders": 9,
+    "vendors_technical": [
+      {
+        "vendor_name": "CMS TECHNO SERVICES",
+        "status": "Qualified"
+      },
+      {
+        "vendor_name": "DURGAPUR CASTING & ALLIED PRODUCTS PVT LTD",
+        "status": "Qualified"
+      },
+      {
+        "vendor_name": "HOWRAH STEEL & METALCRAFTS PRIVATE LIMITED",
+        "status": "Qualified"
+      },
+      {
+        "vendor_name": "MA TARA ENTERPRISE",
+        "status": "Qualified"
+      },
+      {
+        "vendor_name": "MICROMECH EQUIPMENTS",
+        "status": "Qualified"
+      },
+      {
+        "vendor_name": "MODERN POWER ENGINEERING COMPANY",
+        "status": "Qualified"
+      },
+      {
+        "vendor_name": "NECO HEAVY ENGINEERING AND CASTINGS LIMITED",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "SHYAM ENGINEERING CO",
+        "status": "Qualified"
+      },
+      {
+        "vendor_name": "THE MINING & ENGINEERING CORPORATION",
+        "status": "Qualified"
+      }
+    ]
+  },
+  {
+    "bid_id": "GEM/2026/B/7428733",
+    "ra_id": "GEM/2026/R/670621",
+    "category": "Hiring of Earth Moving Equipments, Material Handling Equipments and Cranes (per Hour basis) - As Pe",
+    "buyer": "Ministry of Defence, Department of Military Affairs",
+    "quantity": "4",
+    "start_date": "22-05-2026 10:00 AM",
+    "end_date": "23-05-2026 10:00 AM",
+    "bid_result_url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9205491",
+    "ra_result_url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9358909",
+    "winner_name": "NTECNOVIC SOLUTIONS PRIVATE LIMITED",
+    "winner_price": "7787520.00",
+    "bid_value": "7787520.00",
+    "award_date": "23-05-2026 10:00:00",
+    "num_qualified_financial": 4,
+    "vendors_financial": [
+      {
+        "vendor_name": "NTECNOVIC SOLUTIONS PRIVATE LIMITED",
+        "vendor_price": "7787520.00",
+        "vendor_rank": "L1"
+      },
+      {
+        "vendor_name": "ADARSH ENTERPRISES",
+        "vendor_price": "7802496.00",
+        "vendor_rank": "L2"
+      },
+      {
+        "vendor_name": "AARU SECURE PRIVATE LIMITED",
+        "vendor_price": "7817472.00",
+        "vendor_rank": "L3"
+      },
+      {
+        "vendor_name": "RANA SON'S & COMPANY",
+        "vendor_price": "7862400.00",
+        "vendor_rank": "L4"
+      }
+    ],
+    "num_bidders": 11,
+    "vendors_technical": [
+      {
+        "vendor_name": "AARU SECURE PRIVATE LIMITED",
+        "status": "Qualified"
+      },
+      {
+        "vendor_name": "ADARSH ENTERPRISES",
+        "status": "Qualified"
+      },
+      {
+        "vendor_name": "BEDI ROADLINES PATHANKOT",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "FARID ENTERPRISES",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "GERA ENTERPRISES",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "JAGDISH LAL CONTRACTOR",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "JAI ENGINEERS",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "M/S GURBACHAN SINGH",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "NTECNOVIC SOLUTIONS PRIVATE LIMITED",
+        "status": "Qualified"
+      },
+      {
+        "vendor_name": "R/L Construction & Commercial Services",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "RANA SON'S & COMPANY",
+        "status": "Qualified"
+      }
+    ]
+  },
+  {
+    "bid_id": "GEM/2026/B/7520390",
+    "ra_id": "GEM/2026/R/670607",
+    "category": "Shelter Parts for Cook House and Dining Hall,PCC Cement IS 1489,Coarse Sand,20mm Aggregates,40mm Ag",
+    "buyer": "Ministry of Defence, Department of Military Affairs",
+    "quantity": "4315",
+    "start_date": "22-05-2026 10:00 AM",
+    "end_date": "23-05-2026 10:00 AM",
+    "bid_result_url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9307501",
+    "ra_result_url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9358750",
+    "winner_name": "M/S SUBHADRA STEEL",
+    "winner_price": "2722684.00",
+    "bid_value": "2722684.00",
+    "award_date": "23-05-2026 10:00:00",
+    "num_qualified_financial": 3,
+    "vendors_financial": [
+      {
+        "vendor_name": "M/S SUBHADRA STEEL",
+        "vendor_price": "2722684.00",
+        "vendor_rank": "L1"
+      },
+      {
+        "vendor_name": "M/s JSB CONSTRUCTION",
+        "vendor_price": "2750000.00",
+        "vendor_rank": "L2"
+      },
+      {
+        "vendor_name": "M/S T.N.T. ENTERPRISES",
+        "vendor_price": "2800000.00",
+        "vendor_rank": "L3"
+      }
+    ],
+    "num_bidders": 5,
+    "vendors_technical": [
+      {
+        "vendor_name": "AGGARWAL INFRATECH & ENGINEERS",
+        "status": "Disqualified"
+      },
+      {
+        "vendor_name": "M/s JSB CONSTRUCTION",
+        "status": "Qualified"
+      },
+      {
+        "vendor_name": "M/S SUBHADRA STEEL",
+        "status": "Qualified"
+      },
+      {
+        "vendor_name": "M/S T.N.T. ENTERPRISES",
+        "status": "Qualified"
+      },
+      {
+        "vendor_name": "VIJAY INDUSTRIES",
+        "status": "Disqualified"
+      }
+    ]
+  },
+  {
+    "bid_id": "GEM/2026/B/7532984",
+    "ra_id": null,
+    "category": "Facility Management Services - LumpSum Based - cricket kit pursuse; cricket kit pursuse; Consumable",
+    "buyer": "Panchayati Raj Department UttraKhand",
+    "quantity": "1",
+    "start_date": "13-05-2026 9:54 AM",
+    "end_date": "23-05-2026 10:00 AM",
+    "bid_result_url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9321604",
+    "ra_result_url": null,
+    "winner_name": "DISTRICT SPORTS CENTER",
+    "winner_price": "1499995.00",
+    "bid_value": "1499995.00",
+    "award_date": "23-05-2026 10:00:00",
+    "num_qualified_financial": 3,
+    "vendors_financial": [
+      {
+        "vendor_name": "DISTRICT SPORTS CENTER",
+        "vendor_price": "1499995.00",
+        "vendor_rank": "L1"
+      },
+      {
+        "vendor_name": "M/S HARI OM ENTERPRISES GARUR",
+        "vendor_price": "1622000.00",
+        "vendor_rank": "L2"
+      },
+      {
+        "vendor_name": "SHRI HARI TRADERS",
+        "vendor_price": "1730000.00",
+        "vendor_rank": "L3"
+      }
+    ],
+    "num_bidders": 3,
+    "vendors_technical": [
+      {
+        "vendor_name": "DISTRICT SPORTS CENTER",
+        "status": "Qualified"
+      },
+      {
+        "vendor_name": "M/S HARI OM ENTERPRISES GARUR",
+        "status": "Qualified"
+      },
+      {
+        "vendor_name": "SHRI HARI TRADERS",
+        "status": "Qualified"
+      }
+    ]
+  },
+  {
+    "bid_id": "GEM/2026/B/7532890",
+    "ra_id": null,
+    "category": "Facility Management Services - LumpSum Based - new destbeen pursuse; Collection and disposal of gar",
+    "buyer": "Panchayati Raj Department UttraKhand",
+    "quantity": "1",
+    "start_date": "13-05-2026 9:35 AM",
+    "end_date": "23-05-2026 10:00 AM",
+    "bid_result_url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9321502",
+    "ra_result_url": null,
+    "winner_name": "JAY ENTERPRISES",
+    "winner_price": "2497600.00",
+    "bid_value": "2497600.00",
+    "award_date": "23-05-2026 10:00:00",
+    "num_qualified_financial": 3,
+    "vendors_financial": [
+      {
+        "vendor_name": "JAY ENTERPRISES",
+        "vendor_price": "2497600.00",
+        "vendor_rank": "L1"
+      },
+      {
+        "vendor_name": "MAA VAISHNO ENTERPRISES",
+        "vendor_price": "2542200.00",
+        "vendor_rank": "L2"
+      },
+      {
+        "vendor_name": "M. K. ENTERPRISES",
+        "vendor_price": "2565000.00",
+        "vendor_rank": "L3"
+      }
+    ],
+    "num_bidders": 3,
+    "vendors_technical": [
+      {
+        "vendor_name": "JAY ENTERPRISES",
+        "status": "Qualified"
+      },
+      {
+        "vendor_name": "M. K. ENTERPRISES",
+        "status": "Qualified"
+      },
+      {
+        "vendor_name": "MAA VAISHNO ENTERPRISES",
+        "status": "Qualified"
+      }
+    ]
+  },
+  {
+    "bid_id": "GEM/2026/B/7384782",
+    "ra_id": "GEM/2026/R/670581",
+    "category": "Tenofovir 300 mg plus Lamivudine 300 mg plus Dolutegravir 50 mg FDC,Foot drop splint,Lignocaine HCl",
+    "buyer": "Ministry of Defence, Department of Military Affairs",
+    "quantity": "166481",
+    "start_date": "22-05-2026 9:00 AM",
+    "end_date": "23-05-2026 9:40 AM",
+    "bid_result_url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9155347",
+    "ra_result_url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9358592",
+    "winner_name": "SHRADHA CHEMIST",
+    "winner_price": "1079995.00",
+    "bid_value": "1079995.00",
+    "award_date": "23-05-2026 09:40:54",
+    "num_qualified_financial": 3,
+    "vendors_financial": [
+      {
+        "vendor_name": "SHRADHA CHEMIST",
+        "vendor_price": "1079995.00",
+        "vendor_rank": "L1"
+      },
+      {
+        "vendor_name": "PROMPT PHARMA",
+        "vendor_price": "1081399.50",
+        "vendor_rank": "L2"
+      },
+      {
+        "vendor_name": "MAHADEV ENTERPRISE",
+        "vendor_price": "1101661.00",
+        "vendor_rank": "L3"
+      }
+    ],
+    "num_bidders": 4,
+    "vendors_technical": [
+      {
+        "vendor_name": "KABIR MEDICINES & AGENCY",
+        "status": "Qualified"
+      },
+      {
+        "vendor_name": "MAHADEV ENTERPRISE",
+        "status": "Qualified"
+      },
+      {
+        "vendor_name": "PROMPT PHARMA",
+        "status": "Qualified"
+      },
+      {
+        "vendor_name": "SHRADHA CHEMIST",
+        "status": "Qualified"
+      }
+    ]
+  },
+  {
+    "bid_id": "GEM/2026/B/7389281",
+    "ra_id": "GEM/2026/R/670580",
+    "category": "N/A",
+    "buyer": "Ministry of Defence, Department of Military Affairs",
+    "quantity": "1",
+    "start_date": "22-05-2026 9:00 AM",
+    "end_date": "23-05-2026 9:30 AM",
+    "bid_result_url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9160489",
+    "ra_result_url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9358581",
+    "winner_name": "STAR NUKE CONSULTING ENGINEERING SERVICES PRIVATE LIMITED",
+    "winner_price": "40000.00",
+    "bid_value": "40000.00",
+    "award_date": "23-05-2026 09:30:47",
+    "num_qualified_financial": 3,
+    "vendors_financial": [
+      {
+        "vendor_name": "STAR NUKE CONSULTING ENGINEERING SERVICES PRIVATE LIMITED",
+        "vendor_price": "40000.00",
+        "vendor_rank": "L1"
+      },
+      {
+        "vendor_name": "TECHNOMAC MEDICAL SYSTEMS PRIVATE LIMITED",
+        "vendor_price": "41000.00",
+        "vendor_rank": "L2"
+      },
+      {
+        "vendor_name": "ABA TECHNOLOGIES",
+        "vendor_price": "63000.00",
+        "vendor_rank": "L3"
+      }
+    ],
+    "num_bidders": 3,
+    "vendors_technical": [
+      {
+        "vendor_name": "ABA TECHNOLOGIES",
+        "status": "Qualified"
+      },
+      {
+        "vendor_name": "STAR NUKE CONSULTING ENGINEERING SERVICES PRIVATE LIMITED",
+        "status": "Qualified"
+      },
+      {
+        "vendor_name": "TECHNOMAC MEDICAL SYSTEMS PRIVATE LIMITED",
+        "status": "Qualified"
+      }
+    ]
+  },
+  {
+    "bid_id": "GEM/2026/B/7513284",
+    "ra_id": null,
+    "category": "ST Poles 16 Mtr long 410 SP80,ACSR Panther Conductor,GI Channel flat Angle,66 KV Disc insulator 120",
+    "buyer": "Power Development Department Jammu and Kashmir",
+    "quantity": "3745",
+    "start_date": "07-05-2026 10:26 PM",
+    "end_date": "23-05-2026 9:00 AM",
+    "bid_result_url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9299692",
+    "ra_result_url": null,
+    "winner_name": "M/S T&D CONSTRUCTION AND TRADING CO.( MSE Social Category:General )",
+    "winner_price": "3323320.00",
+    "bid_value": "3323320.00",
+    "award_date": "23-05-2026 09:00:00",
+    "num_qualified_financial": 5,
+    "vendors_financial": [
+      {
+        "vendor_name": "SUPER POWER ENTERPRISES",
+        "vendor_price": "2339500.00",
+        "vendor_rank": "Disqualified"
+      },
+      {
+        "vendor_name": "M/S T&D CONSTRUCTION AND TRADING CO.( MSE Social Category:General )",
+        "vendor_price": "3323320.00",
+        "vendor_rank": "L1"
+      },
+      {
+        "vendor_name": "KONARK ENGINEERS & TRADERS",
+        "vendor_price": "4071000.00",
+        "vendor_rank": "L2"
+      },
+      {
+        "vendor_name": "KULBUSHAN KUMAR( MSE Social Category:General )",
+        "vendor_price": "4169280.00",
+        "vendor_rank": "L3"
+      },
+      {
+        "vendor_name": "MADHAV ENTERPRISES",
+        "vendor_price": "4231000.00",
+        "vendor_rank": "L4"
+      }
+    ],
+    "num_bidders": 5,
+    "vendors_technical": [
+      {
+        "vendor_name": "KONARK ENGINEERS & TRADERS",
+        "status": "Qualified"
+      },
+      {
+        "vendor_name": "KULBUSHAN KUMAR",
+        "status": "Qualified"
+      },
+      {
+        "vendor_name": "M/S T&D CONSTRUCTION AND TRADING CO.",
+        "status": "Qualified"
+      },
+      {
+        "vendor_name": "MADHAV ENTERPRISES",
+        "status": "Qualified"
+      },
+      {
+        "vendor_name": "SUPER POWER ENTERPRISES",
+        "status": "Qualified"
+      }
+    ]
+  },
+  {
+    "bid_id": "GEM/2026/B/7520384",
+    "ra_id": null,
+    "category": "PVC Floor Mat Roll,Chiller,Switch Board,Electric Wire 16 mm 270mtr,Dyna Sheet tin sheet",
+    "buyer": "Ministry of Defence, Department of Military Affairs",
+    "quantity": "7",
+    "start_date": "08-05-2026 7:38 PM",
+    "end_date": "23-05-2026 9:00 AM",
+    "bid_result_url": null,
+    "ra_result_url": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7518797",
+    "ra_id": null,
+    "category": "Facility Management Services - LumpSum Based - Commercial; Installation of IT Equipments; Consumabl",
+    "buyer": "Health and Family Welfare Department Kerala",
+    "quantity": "1",
+    "start_date": "08-05-2026 3:40 PM",
+    "end_date": "23-05-2026 9:00 AM",
+    "bid_result_url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9305749",
+    "ra_result_url": null,
+    "winner_name": "EXTREME I T SOLUTIONS( MSE Social Category:General )",
+    "winner_price": "153500.00",
+    "bid_value": "153500.00",
+    "award_date": "23-05-2026 09:00:00",
+    "num_qualified_financial": 3,
+    "vendors_financial": [
+      {
+        "vendor_name": "EXTREME I T SOLUTIONS( MSE Social Category:General )",
+        "vendor_price": "153500.00",
+        "vendor_rank": "L1"
+      },
+      {
+        "vendor_name": "ELITE TECHNOLOGIES",
+        "vendor_price": "160000.00",
+        "vendor_rank": "L2"
+      },
+      {
+        "vendor_name": "Smart Technologies",
+        "vendor_price": "170500.00",
+        "vendor_rank": "L3"
+      }
+    ],
+    "num_bidders": 3,
+    "vendors_technical": [
+      {
+        "vendor_name": "ELITE TECHNOLOGIES",
+        "status": "Qualified"
+      },
+      {
+        "vendor_name": "EXTREME I T SOLUTIONS",
+        "status": "Qualified"
+      },
+      {
+        "vendor_name": "Smart Technologies",
+        "status": "Qualified"
+      }
+    ]
+  },
+  {
+    "bid_id": "GEM/2026/B/7532604",
+    "ra_id": null,
+    "category": "N/A",
+    "buyer": "Department of Panchayati Raj",
+    "quantity": "1",
+    "start_date": "12-05-2026 8:23 PM",
+    "end_date": "22-05-2026 9:00 PM",
+    "bid_result_url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9321186",
+    "ra_result_url": null,
+    "winner_name": "DIVYA WATER PLAZA( MSE Social Category:General )",
+    "winner_price": "399500.00",
+    "bid_value": "399500.00",
+    "award_date": "22-05-2026 21:00:00",
+    "num_qualified_financial": 3,
+    "vendors_financial": [
+      {
+        "vendor_name": "DIVYA WATER PLAZA( MSE Social Category:General )",
+        "vendor_price": "399500.00",
+        "vendor_rank": "L1"
+      },
+      {
+        "vendor_name": "Ananya Enterprises",
+        "vendor_price": "439450.00",
+        "vendor_rank": "L2"
+      },
+      {
+        "vendor_name": "M/S SHARDA ENTERPRISES( MSE Social Category:General )",
+        "vendor_price": "483395.00",
+        "vendor_rank": "L3"
+      }
+    ],
+    "num_bidders": 3,
+    "vendors_technical": [
+      {
+        "vendor_name": "Ananya Enterprises",
+        "status": "Qualified"
+      },
+      {
+        "vendor_name": "DIVYA WATER PLAZA",
+        "status": "Qualified"
+      },
+      {
+        "vendor_name": "M/S SHARDA ENTERPRISES",
+        "status": "Qualified"
+      }
+    ]
+  },
+  {
+    "bid_id": "GEM/2026/B/7532603",
+    "ra_id": null,
+    "category": "Procurement of Refrigerator 180 ltr",
+    "buyer": "Ministry of Defence, Department of Defence",
+    "quantity": "1",
+    "start_date": "12-05-2026 8:24 PM",
+    "end_date": "22-05-2026 9:00 PM",
+    "bid_result_url": null,
+    "ra_result_url": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7532581",
+    "ra_id": null,
+    "category": "RO Plant with Genset and Trolley",
+    "buyer": "Department of Panchayati Raj",
+    "quantity": "1",
+    "start_date": "12-05-2026 8:07 PM",
+    "end_date": "22-05-2026 9:00 PM",
+    "bid_result_url": null,
+    "ra_result_url": null
+  },
+  {
+    "bid_id": "GEM/2026/B/7527679",
+    "ra_id": null,
+    "category": "Facility Management Services - LumpSum Based - WATER TANKER REPAIR; WATER TANKER REPAIR; Consumable",
+    "buyer": "Rural Development Department Uttar Pradesh",
+    "quantity": "1",
+    "start_date": "12-05-2026 2:26 PM",
+    "end_date": "22-05-2026 9:00 PM",
+    "bid_result_url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9315836",
+    "ra_result_url": null,
+    "winner_name": "SHIKHAR ENTERPRISES",
+    "winner_price": "959800.00",
+    "bid_value": "959800.00",
+    "award_date": "22-05-2026 21:00:00",
+    "num_qualified_financial": 3,
+    "vendors_financial": [
+      {
+        "vendor_name": "SHIKHAR ENTERPRISES",
+        "vendor_price": "959800.00",
+        "vendor_rank": "L1"
+      },
+      {
+        "vendor_name": "OMG ENGINEERING",
+        "vendor_price": "959900.00",
+        "vendor_rank": "L2"
+      },
+      {
+        "vendor_name": "TRIPATI ENTERPRISES",
+        "vendor_price": "960000.00",
+        "vendor_rank": "L3"
+      }
+    ],
+    "num_bidders": 3,
+    "vendors_technical": [
+      {
+        "vendor_name": "OMG ENGINEERING",
+        "status": "Qualified"
+      },
+      {
+        "vendor_name": "SHIKHAR ENTERPRISES",
+        "status": "Qualified"
+      },
+      {
+        "vendor_name": "TRIPATI ENTERPRISES",
+        "status": "Qualified"
+      }
+    ]
+  },
+  {
+    "bid_id": "GEM/2026/B/7527596",
+    "ra_id": null,
+    "category": "High Mast Lighting Octagonal Tower for Small area with LED Flood Lighting System (V2)",
+    "buyer": "Rural Development Department Uttar Pradesh",
+    "quantity": "1",
+    "start_date": "12-05-2026 2:35 PM",
+    "end_date": "22-05-2026 9:00 PM",
+    "bid_result_url": "https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9315744",
+    "ra_result_url": null,
+    "winner_name": "M/S SHREE ENTERPRISES",
+    "winner_price": "549800.00",
+    "bid_value": "549800.00",
+    "award_date": "22-05-2026 21:00:00",
+    "num_qualified_financial": 3,
+    "vendors_financial": [
+      {
+        "vendor_name": "M/S SHREE ENTERPRISES",
+        "vendor_price": "549800.00",
+        "vendor_rank": "L1"
+      },
+      {
+        "vendor_name": "OMG ENGINEERING",
+        "vendor_price": "549900.00",
+        "vendor_rank": "L2"
+      },
+      {
+        "vendor_name": "TRIPATI ENTERPRISES",
+        "vendor_price": "550000.00",
+        "vendor_rank": "L3"
+      }
+    ],
+    "num_bidders": 3,
+    "vendors_technical": [
+      {
+        "vendor_name": "M/S SHREE ENTERPRISES",
+        "status": "Qualified"
+      },
+      {
+        "vendor_name": "OMG ENGINEERING",
+        "status": "Qualified"
+      },
+      {
+        "vendor_name": "TRIPATI ENTERPRISES",
+        "status": "Qualified"
+      }
+    ]
+  }
+]

@@ -1,0 +1,43 @@
+{
+  "total_bids": 30,
+  "total_vendor_records": 284,
+  "competition": {
+    "avg_bidders_per_bid": 12.1,
+    "max_bidders": 186,
+    "min_bidders": 3,
+    "bids_with_more_than_3_bidders": 7,
+    "pct_bids_with_more_than_3": 30.4
+  },
+  "price_analysis": {
+    "avg_winning_price": 1177098.23,
+    "max_winning_price": 7787520.0,
+    "min_winning_price": 1800.0,
+    "avg_l1_l2_gap_pct": 7.4,
+    "max_l1_l2_gap_pct": 55.6,
+    "min_l1_l2_gap_pct": 0.0
+  },
+  "repeat_winners": {
+    "total_unique_winners": 21,
+    "repeat_winners": {
+      "M/S SHREE ENTERPRISES": 3
+    },
+    "top_5_winners": {
+      "M/S SHREE ENTERPRISES": 3,
+      "ARMED FORCE EX SERVICEMAN WELFARE CO OPERATIVE SOCIETY LIMITED": 1,
+      "M/S T&D CONSTRUCTION AND TRADING CO.( MSE Social Category:General )": 1,
+      "STAR NUKE CONSULTING ENGINEERING SERVICES PRIVATE LIMITED": 1,
+      "SHRADHA CHEMIST": 1
+    }
+  },
+  "disqualification": {
+    "total_disqualified": 203,
+    "disqualification_rate_pct": 73.3,
+    "top_disqualified_vendors": {
+      "ASMA ENTERPRISES": 1,
+      "Jaisalmer bombay transport company": 1,
+      "MILAN TRANSPORT CO.": 1,
+      "NIRVANA TOURS AND LOGISTICS LLP": 1,
+      "PREM PRAKASH ARORA": 1
+    }
+  }
+}
