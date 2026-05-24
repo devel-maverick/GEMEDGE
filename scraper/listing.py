@@ -20,15 +20,14 @@ def get_bid_listings():
         page.click('#bid_awarded')
         page.wait_for_timeout(4000)
 
-        page_num = 1
         while len(bids) < MIN_BIDS:
             soup = BeautifulSoup(page.content(), 'lxml')
-            cards = soup.select('div.card')
-            for c in cards:
+            for c in soup.select('div.card'):
                 bid = extract_bid(c)
                 if bid and bid['bid_id'] not in seen:
                     seen.add(bid['bid_id'])
                     bids.append(bid)
+
             if len(bids) >= MIN_BIDS:
                 break
 
@@ -37,7 +36,6 @@ def get_bid_listings():
                 break
             next_btn.click()
             page.wait_for_timeout(4000)
-            page_num += 1
 
         browser.close()
 
@@ -57,21 +55,21 @@ def extract_bid(card):
                 ra_id = link.text.strip()
 
         category = "N/A"
-        items_tag = card.find("strong", string=lambda t: t and "Items" in t)
+        items_tag = find_label(card, "Items")
         if items_tag:
             a_tag = items_tag.find_next_sibling("a")
             if a_tag:
                 category = a_tag.get("data-content") or a_tag.text.strip()
 
         buyer = "N/A"
-        dept_tag = card.find("strong", string=lambda t: t and "Department" in t)
+        dept_tag = find_label(card, "Department")
         if dept_tag:
             next_div = dept_tag.parent.find_next_sibling("div", class_="row")
             if next_div:
                 buyer = next_div.get_text(separator=", ", strip=True)
 
         quantity = "N/A"
-        qty_tag = card.find("strong", string=lambda t: t and "Quantity" in t)
+        qty_tag = find_label(card, "Quantity")
         if qty_tag and qty_tag.next_sibling:
             quantity = qty_tag.next_sibling.strip().lstrip(":").strip()
 
@@ -105,8 +103,5 @@ def extract_bid(card):
         return None
 
 
-if __name__ == "__main__":
-    results = get_bid_listings()
-    print(f"\nTotal bids: {len(results)}")
-    for bid in results[:5]:
-        print(bid)
+def find_label(card, label):
+    return card.find("strong", string=lambda t: t and label in t)

@@ -9,7 +9,7 @@ HEADERS = {"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleW
 def get_bid_details(bids):
     enriched = []
 
-    for i, bid in enumerate(bids):
+    for bid in bids:
         record = dict(bid)
 
         url = bid.get('ra_result_url') or bid.get('bid_result_url')
@@ -68,7 +68,7 @@ def fetch_financial(url):
             'num_qualified_financial': len(vendors),
             'vendors_financial': vendors,
         }
-    except Exception as e:
+    except Exception:
         return None
 
 
@@ -83,6 +83,9 @@ def fetch_technical(url):
         if not table:
             return None
 
+        headers = [th.get_text(strip=True) for th in table.select("th")]
+        emd_idx = next((i for i, h in enumerate(headers) if "EMD" in h), None)
+
         vendors = []
         rows = table.select("tbody tr") or table.select("tr")[1:]
         for row in rows:
@@ -92,10 +95,13 @@ def fetch_technical(url):
             name = get_seller_name(row, cells)
             status_span = cells[-1].select_one("span")
             status = status_span.get_text(strip=True) if status_span else cells[-1].get_text(strip=True)
-            vendors.append({'vendor_name': name, 'status': status})
+            remarks = cells[emd_idx].get_text(strip=True) if emd_idx is not None and emd_idx < len(cells) else ""
+            if remarks == "-":
+                remarks = ""
+            vendors.append({'vendor_name': name, 'status': status, 'remarks': remarks})
 
         return {'num_bidders': len(vendors), 'vendors': vendors}
-    except Exception as e:
+    except Exception:
         return None
 
 
@@ -119,8 +125,7 @@ def get_seller_name(row, cells):
 
 
 def clean_price(text):
-    text = text.replace('`', '').replace('₹', '')
-    text = re.sub(r'\(Bid Price\)', '', text)
+    text = text.replace('`', '').replace('₹', '').replace('(Bid Price)', '')
     return text.strip()
 
 
@@ -138,17 +143,3 @@ def get_end_date(soup):
     return "N/A"
 
 
-if __name__ == "__main__":
-    test_bids = [{
-        'bid_id': 'GEM/2026/B/7497804',
-        'bid_result_url': 'https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9282523',
-        'ra_result_url': 'https://bidplus.gem.gov.in/bidding/bid/getBidResultView/9358399',
-    }]
-    results = get_bid_details(test_bids)
-    for r in results:
-        print(f"\nBid: {r['bid_id']}")
-        print(f"  Winner: {r.get('winner_name')}")
-        print(f"  Price: {r.get('winner_price')}")
-        print(f"  Award Date: {r.get('award_date')}")
-        print(f"  Bidders: {r.get('num_bidders')}")
-        print(f"  Financial vendors: {r.get('vendors_financial')}")

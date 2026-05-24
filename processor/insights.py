@@ -122,11 +122,3 @@ def print_summary(insights):
         print(f"  Disqualification rate: {disq.get('disqualification_rate_pct')}%")
 
 
-if __name__ == "__main__":
-    test_df = pd.DataFrame([
-        {'bid_id': 'B1', 'vendor_name': 'ACME', 'vendor_rank': 'L1', 'vendor_price_numeric': 100000, 'winner_price_numeric': 100000, 'status_flag': 'winner', 'num_bidders': 4},
-        {'bid_id': 'B1', 'vendor_name': 'XYZ', 'vendor_rank': 'L2', 'vendor_price_numeric': 120000, 'winner_price_numeric': 100000, 'status_flag': 'participated', 'num_bidders': 4},
-        {'bid_id': 'B1', 'vendor_name': 'FAIL Corp', 'vendor_rank': 'Disqualified', 'vendor_price_numeric': None, 'winner_price_numeric': 100000, 'status_flag': 'disqualified', 'num_bidders': 4},
-        {'bid_id': 'B2', 'vendor_name': 'ACME', 'vendor_rank': 'L1', 'vendor_price_numeric': 200000, 'winner_price_numeric': 200000, 'status_flag': 'winner', 'num_bidders': 2},
-    ])
-    generate_insights(test_df)

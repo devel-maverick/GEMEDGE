@@ -27,14 +27,15 @@ def normalize_text_columns(df):
 
 
 def clean_prices(df):
+    junk = ['`', '₹', ',', '(Bid Price)']
     for col in ['vendor_price', 'winner_price', 'bid_value']:
-        if col in df.columns:
-            df[col] = df[col].astype(str).str.replace('`', '', regex=False)
-            df[col] = df[col].str.replace('₹', '', regex=False)
-            df[col] = df[col].str.replace(',', '', regex=False)
-            df[col] = df[col].str.replace('(Bid Price)', '', regex=False)
-            df[col] = df[col].str.strip()
-            df[col + '_numeric'] = pd.to_numeric(df[col], errors='coerce')
+        if col not in df.columns:
+            continue
+        series = df[col].astype(str)
+        for ch in junk:
+            series = series.str.replace(ch, '', regex=False)
+        df[col] = series.str.strip()
+        df[col + '_numeric'] = pd.to_numeric(df[col], errors='coerce')
     return df
 
 
@@ -50,10 +51,7 @@ def handle_missing_values(df):
 def remove_duplicates(df):
     key_cols = ['bid_id', 'vendor_name', 'vendor_rank']
     existing = [c for c in key_cols if c in df.columns]
-    before = len(df)
-    df = df.drop_duplicates(subset=existing, keep='first')
-    removed = before - len(df)
-    return df
+    return df.drop_duplicates(subset=existing, keep='first')
 
 
 def flag_anomalies(df):
@@ -71,15 +69,15 @@ def flag_anomalies(df):
         zero_price = df['vendor_price_numeric'] == 0
         df.loc[zero_price, 'anomaly'] += 'zero_price;'
 
+    if 'vendor_price_numeric' in df.columns and 'winner_price_numeric' in df.columns:
+        lowest = df.groupby('bid_id')['vendor_price_numeric'].transform('min')
+        winner_rows = df[df['status_flag'] == 'winner'].copy()
+        winner_rows = winner_rows[winner_rows['winner_price_numeric'] > lowest.loc[winner_rows.index]]
+        bad_bids = set(winner_rows['bid_id'])
+        if bad_bids:
+            df.loc[df['bid_id'].isin(bad_bids), 'anomaly'] += 'winner_not_lowest_price;'
+
     df['anomaly'] = df['anomaly'].str.rstrip(';')
     return df
 
 
-if __name__ == "__main__":
-    test = [
-        {'bid_id': 'B1', 'vendor_name': '  ACME Corp  ', 'vendor_price': '`1500000.00', 'winner_price': '1500000.00', 'bid_value': '1500000.00', 'vendor_rank': 'L1', 'winner_name': 'ACME Corp', 'category': 'Supply', 'buyer': 'Ministry', 'quantity': '5', 'num_bidders': 3, 'status_flag': 'winner', 'award_date': '22-05-2026'},
-        {'bid_id': 'B1', 'vendor_name': 'XYZ Ltd', 'vendor_price': '1800000.00', 'winner_price': '1500000.00', 'bid_value': '1500000.00', 'vendor_rank': 'L2', 'winner_name': 'ACME Corp', 'category': 'Supply', 'buyer': 'Ministry', 'quantity': '5', 'num_bidders': 3, 'status_flag': 'participated', 'award_date': '22-05-2026'},
-        {'bid_id': 'B1', 'vendor_name': 'XYZ Ltd', 'vendor_price': '1800000.00', 'winner_price': '1500000.00', 'bid_value': '1500000.00', 'vendor_rank': 'L2', 'winner_name': 'ACME Corp', 'category': 'Supply', 'buyer': 'Ministry', 'quantity': '5', 'num_bidders': 3, 'status_flag': 'participated', 'award_date': '22-05-2026'},
-    ]
-    df = clean_data(test)
-    print(df.to_string())

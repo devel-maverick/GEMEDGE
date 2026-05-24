@@ -42,25 +42,14 @@ playwright install chromium
 
 ## Usage
 
-Run the full pipeline:
-
 ```bash
 python main.py
 ```
 
-Or run individual steps:
-
-```bash
-python -m scraper.listing       # Just scrape listings
-python -m scraper.bid_detail    # Test detail extraction
-python -m scraper.evaluation    # Test evaluation builder
-python -m processor.cleaner     # Test data cleaning
-python -m processor.insights    # Test insight generation
-```
-
 ## Output
 
-- **bids.csv** — One row per vendor per bid, with columns: bid_id, category, buyer, quantity, bid_value, award_date, winner_name, winner_price, num_bidders, vendor_name, vendor_rank, vendor_price, status_flag, anomaly
+- **bids.csv** — One row per vendor per bid, with columns: bid_id, category, buyer, quantity, bid_value, award_date, winner_name, winner_price, num_bidders, vendor_name, vendor_rank, vendor_price, status_flag
+- **bids_full.json** — Full JSON with extra fields (remarks, anomaly)
 - **insights.json** — Competition stats, price analysis (L1-L2 gap), repeat winners, disqualification rates
 
 ## Tech Stack
